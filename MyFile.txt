@@ -1,2 +1,4 @@
 This is my File
 And i added a new line 
+
+some changes made in feature1 branch
